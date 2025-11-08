@@ -44,7 +44,10 @@ Maîtriser la **logique du code**, la **syntaxe Java**, et les **concepts fondam
 - Documentation de code avec **Javadoc**
 
 **Exercice pratique :**
-- To-Do List (ajouter / supprimer / afficher des tâches)
+- Somme et moyenne d’un tableau d’entiers
+- Trouver le plus grand et le plus petit nombre
+- Crée un tableau fixe et faire une recherche dans le tableau
+- Mini-to do list (manuelle et supression en remplacant le mot par nothing)
 
 ---
 
